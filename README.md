@@ -1,3 +1,3 @@
 # python-blackjack
 
-Simply python project for black jack game as part of milestone project
+Simple python project for black jack game as part of milestone project
